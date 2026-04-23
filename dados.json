@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "PRAÇA 05 DE AGOSTO",
+        "endereco": "RUA RUI BARBOSA – CENTRO"
+    },
+    {
+        "nome": "PRAÇA DAS MÃES",
+        "endereco": "AVENIDA PERIMETRAL – BAIRRO MARTINS"
+    },
+    {
+        "nome": "PRAÇA PADRE MARIANO (SÃO SEBASTIÃO)",
+        "endereco": "RUA RODRIGUES DE MENDONÇA – CENTRO"
+    },
+    {
+        "nome": "PRAÇA ORCALINO FERREIRA GUIMARÃES – PRAÇA DO SKATE",
+        "endereco": "RUA 12 – JARDIM GOIÁS"
+    },
+    {
+        "nome": "PRAÇA DO BAIRRO SERPRÓ",
+        "endereco": "RUA DAS ROSAS – SERPRÓ"
+    },
+    {
+        "nome": "PRAÇA GAMELEIRA ( ATIVIDADES FISICAS)",
+        "endereco": "GAMELEIRA II"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "usuario": "admin",
+        "senha": "123",
+        "tipo": "admin"
+    },
+    {
+        "usuario": "funcionario",
+        "senha": "123",
+        "tipo": "funcionario"
+    },
+    {
+        "usuario": "visual",
+        "senha": "123",
+        "tipo": "visualizador"
+    }
+]
